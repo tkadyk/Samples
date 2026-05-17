@@ -1,5 +1,5 @@
 {
   "_base": "https://raw.githubusercontent.com/tkadyk/Samples/main/",
   "bananaghost": ["banana_ghost.wav"],
-  "forest": ["adventuring_the_forest.wav, adventuring_the_forest2.wav"]
+  "forest": ["adventuring_the_forest.wav", "adventuring_the_forest2.wav"]
 }
